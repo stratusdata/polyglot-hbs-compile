@@ -1,0 +1,21 @@
+{
+  "name": "polyglot-hbs-compile",
+  "version": "0.1.0",
+  "description": "Compile polyglot phrase maps and handlebars templates",
+  "author": {
+    "name": "Jason Swartout",
+    "email": "jason@stratusdata.com",
+    "url": "http://www.stratusdata.com"
+  },
+  "main": "./lib/polyglot-hbs-compile.js",
+  "dependencies": {
+    "node-polyglot": "*",
+    "handlebars": "*"
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "polyglot-hbs-compile@0.1.0",
+  "dist": {
+    "shasum": "38e40f1739450c27afb33d5b2d3eaf469eec42b5"
+  },
+  "_from": "./modules/polyglot-hbs-compile"
+}
