@@ -12,10 +12,8 @@
     "node-polyglot": "*",
     "handlebars": "*"
   },
-  "readme": "ERROR: No README data found!",
-  "_id": "polyglot-hbs-compile@0.1.0",
-  "dist": {
-    "shasum": "38e40f1739450c27afb33d5b2d3eaf469eec42b5"
-  },
-  "_from": "./modules/polyglot-hbs-compile"
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/stratusdata/polyglot-hbs-compile.git"
+  }
 }
