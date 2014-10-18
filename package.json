@@ -9,8 +9,8 @@
   },
   "main": "./lib/polyglot-hbs-compile.js",
   "dependencies": {
-    "node-polyglot": "*",
-    "handlebars": "*"
+    "node-polyglot": "~0.3.0",
+    "handlebars": "~1.1.2"
   },
   "repository": {
     "type": "git",
