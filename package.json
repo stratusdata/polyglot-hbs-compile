@@ -1,6 +1,6 @@
 {
   "name": "polyglot-hbs-compile",
-  "version": "0.1.0",
+  "version": "2.1.1",
   "description": "Compile polyglot phrase maps and handlebars templates",
   "author": {
     "name": "Jason Swartout",
